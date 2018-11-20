@@ -1,0 +1,2 @@
+Doelstelling van het project
+Dit project dient als persoonlijke introductie tot de weptoepassingen van Python met behulp van Django. 
