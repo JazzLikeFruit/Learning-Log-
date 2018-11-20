@@ -1,2 +1,4 @@
 Doelstelling van het project
 Dit project dient als persoonlijke introductie tot de weptoepassingen van Python met behulp van Django. 
+
+We gaan een webtoepassing met de naam Learining log schrijven die de gebruikers in staat stelt om de onderwerpen waarin ze geiintreseerd zijn bij te houden en een logboek te schrijven terwijl ze over elk onderwerp leren. 
